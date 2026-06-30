@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 .hero-section{
-    background-image: url(./images/torshov.jpg);
+    background-image: url(torshov.jpg);
     background-size: cover;
     color: #ffffff;
     width: 100%;
